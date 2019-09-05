@@ -8,7 +8,7 @@ This is a very nice library looking foward to expereimenting with it more!
 
 Based on the [headcontrols](https://github.com/jeeliz/jeelizFaceFilter/tree/master/demos/threejs/headControls) demo from the JeelizFaceFilter repo
 
-[Online Version](https://www.qrwebscan/headcontrol)
+[Online Version](https://www.qrwebscan.com/headcontrol)
 
 ### To install - 
 Simply clone / unzip contents and open the index html file.
