@@ -10,7 +10,7 @@ Based on the [headcontrols](https://github.com/jeeliz/jeelizFaceFilter/tree/mast
 
 [Online Version](www.qrwebscan/headcontrol)
 
-###To install - 
+### To install - 
 Simply clone / unzip contents and open the index html file.
 I hope someone can find it useful, mod it for a game etc.
 I plan on making the space scene more realistic and working on it when I have time
